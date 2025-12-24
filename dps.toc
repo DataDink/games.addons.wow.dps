@@ -1,0 +1,6 @@
+## Interface: 110207
+## Title: dps
+## Notes: Shows per-unit DPS bars on Blizzard party/raid frames.
+## Author: You
+## Version: 1.0.0
+dps.lua
